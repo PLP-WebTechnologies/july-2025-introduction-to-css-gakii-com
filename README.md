@@ -24,19 +24,7 @@ Use the Box Model deliberately—experiment with margin, padding, and borders to
 
 No JavaScript or external CSS libraries (like Bootstrap) should be used.
 
-## Deliverables
-
-Submit the following files:
-
-* `index.html`: A basic HTML page with structured content.
-* `styles.css`: Your external stylesheet containing all your CSS rules.
-
-Both files should work together to showcase:
-
-* Proper use of selectors and basic styling properties
-* Clear implementation of the CSS Box Model
-* Consistent spacing, sizing, and layout styling
-
+##     
 ## Tips
 
 * Correct linkage of HTML and CSS files
